@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Test" max_length="40" name="x_89054_git_backup_test" type="collection">
+        <element label="Date" max_length="40" name="date" type="glide_date"/>
+        <element label="Name" max_length="40" name="name" type="string"/>
+    </element>
+</database>
